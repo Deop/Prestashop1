@@ -31,6 +31,7 @@
                 <configuration>
                     <includes>
                         <include>Prestashop1.java</include>
+                        <include>Prestashop2.java</include>
                     </includes>
                 </configuration>
             </plugin>
